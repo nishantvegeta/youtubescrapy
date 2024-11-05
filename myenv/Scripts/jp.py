@@ -1,4 +1,4 @@
-#!C:\Users\dell\Desktop\scrapy\myenv\Scripts\python.exe
+#!C:\Users\dell\Desktop\intern\scrapy\myenv\Scripts\python.exe
 
 import sys
 import json
